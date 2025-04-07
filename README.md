@@ -41,11 +41,11 @@ Tools         : Git, VS Code, VS Studio
     <td width="50%">
       <h3 align="center">Multi Tool</h3>
       <div align="center">
-        <a href="https://github.com/rescore9/Multitool" target="_blank">
+        <a href="https://github.com/rescore09/Multitool" target="_blank">
           <img src="https://i.imgur.com/m8owk7a.png" alt="MultiTool" />
         </a>
         <p>
-          <a href="https://github.com/rescore9/Multitool" target="_blank">
+          <a href="https://github.com/rescore09/Multitool" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github" alt="View Code" />
           </a>
           <a href="https://projectdemo.com" target="_blank">
@@ -59,11 +59,11 @@ Tools         : Git, VS Code, VS Studio
     <td width="50%">
       <h3 align="center">Thor Colorbot</h3>
       <div align="center">
-        <a href="https://github.com/rescore/thor" target="_blank">
+        <a href="https://github.com/rescore09/thor" target="_blank">
           <img src="https://i.imgur.com/AyvfQM4.png" alt="Thor" />
         </a>
         <p>
-          <a href="https://github.com/rescore/thor" target="_blank">
+          <a href="https://github.com/rescore09/thor" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github" alt="View Code" />
           </a>
           <a href="https://project2demo.com" target="_blank">
@@ -71,7 +71,7 @@ Tools         : Git, VS Code, VS Studio
           </a>
         </p>
         <p><strong>Tech Stack:</strong> Python, Torch</p>
-        <p>Brief description of your project, highlighting key features and your role.</p>
+        <p>Python script that uses color filteration to achieve aimbot.</p>
       </div>
     </td>
   </tr>
