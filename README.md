@@ -185,11 +185,11 @@
 
 <div align="center">
   <!-- Project 1 -->
-  <a href="https://github.com/rescore09/Multitool">
+  <a href="https://github.com/Rescore09/Hyperion">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rescore09&repo=Multitool&theme=tokyonight&hide_border=true" />
   </a>
   <!-- Project 2 -->
-  <a href="https://github.com/rescore09/thor">
+  <a href="https://github.com/Rescore09/Nyx">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rescore09&repo=thor&theme=tokyonight&hide_border=true" />
   </a>
 </div>
