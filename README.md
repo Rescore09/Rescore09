@@ -17,7 +17,7 @@
     <a href="https://github.com/rescore09" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://discordapp.com/users/yourid" target="_blank">
+    <a href="https://discord.gg/b5MbfNEQPQ" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </div>
